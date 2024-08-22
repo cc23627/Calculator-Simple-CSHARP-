@@ -1,5 +1,4 @@
-﻿// Aquiles Julio RA: 23627
-// Rafael de Oliveira Cançado RA: 23154
+
 
 using System;
 using System.Collections.Generic;
