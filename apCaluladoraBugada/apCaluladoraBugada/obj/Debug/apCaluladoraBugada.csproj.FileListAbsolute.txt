@@ -8,3 +8,13 @@ C:\Users\u23627\Desktop\analfabetismo\apCaluladoraBugada\apCaluladoraBugada\obj\
 C:\Users\u23627\Desktop\analfabetismo\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.csproj.CoreCompileInputs.cache
 C:\Users\u23627\Desktop\analfabetismo\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.exe
 C:\Users\u23627\Desktop\analfabetismo\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.pdb
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.csproj.AssemblyReference.cache
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.Form1.resources
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.Properties.Resources.resources
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.csproj.GenerateResource.cache
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.csproj.CoreCompileInputs.cache
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.exe
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\obj\Debug\apCaluladoraBugada.pdb
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\bin\Debug\apCaluladoraBugada.exe.config
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\bin\Debug\apCaluladoraBugada.exe
+C:\Users\u23154\Desktop\apCaluladoraBugada\apCaluladoraBugada\bin\Debug\apCaluladoraBugada.pdb
